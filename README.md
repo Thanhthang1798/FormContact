@@ -10,4 +10,4 @@ Mô tả chức năng && cách chạy:
 + server sủ dụng Visual Studio để khởi chạy.
 + Lúc chạy server thì server có đường dẫn là : https://localhost:44357/
 + Nếu đường dẫn của server lúc khởi chạy khác  https://localhost:44357/ thì trong file script.js thi update lại đường dẫn: var url = "{url mới}/api";
-+ Trang có 2 tab lúc chạy lên mặc đinh ở tab gửi liên hệ, trang còn lại thì xem được danh sách liên hệ đã gửi(tất cả)
++ Trang có 2 tab là gửi liện hệ và danh sách đã gửi, lúc chạy lên mặc đinh ở tab gửi liên hệ, tab còn lại thì xem được danh sách liên hệ đã gửi(tất cả)
