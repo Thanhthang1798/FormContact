@@ -9,5 +9,5 @@ Mô tả chức năng && cách chạy:
 + giao diện: mở file index.html
 + server sủ dụng Visual Studio để khởi chạy.
 + Lúc chạy server thì server có link là : https://localhost:44357/
-+ Nếu url của server khác với link url trong file script.js thi update lại: var url = "{url mới}/api";
++ Nếu url của server khác  https://localhost:44357/ thì trong file script.js thi update lại url: var url = "{url mới}/api";
 + Trang có 2 tab lúc chạy lên mặc đinh ở tab gửi liên hệ, trang còn lại thì xem được danh sách liên hệ đã gửi(tất cả)
