@@ -6,7 +6,7 @@ Làm 01 form Liên hệ:
 - Sử dụng validate ở client &amp; server ( kiểm tra số điện thoại có phải là MobilePhone)
 
 Mô tả chức năng && cách chạy:
-+ giao diện: mở file index.html
++ giao diện: mở file bằng visual code sử dụng extensions Live Server để chạy giao diện
 + server sủ dụng Visual Studio để khởi chạy.
 + Lúc chạy server thì server có link là : https://localhost:44357/
 + Nếu url của server khác  https://localhost:44357/ thì trong file script.js thi update lại url: var url = "{url mới}/api";
